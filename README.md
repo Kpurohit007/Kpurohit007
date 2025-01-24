@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpurohit007&label=Profile%20views&color=0e75b6&style=flat" alt="kpurohit007" /> </p>
 
-- 🔭 I’m currently working on **Digital agriculture on crops for Demand and Supply**
+- 🔭 I’m currently working on **AIML-Driven Crop Yield and Market Demand & Supply Forecasting**
 
-- 🌱 I’m currently learning **Django , React**
+- 🌱 I’m currently learning **Django , React, GenAI**
 
 - 💬 Ask me about **Current Tech. Pros.**
 
