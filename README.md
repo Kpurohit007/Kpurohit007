@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpurohit007&label=Profile%20views&color=0e75b6&style=flat" alt="kpurohit007" /> </p>
 
-- 🔭 I’m currently working on **AIML-Driven Crop Yield and Market Demand & Supply Forecasting**
+- 🔭 I’m currently working on **MAA Kiradu Die Cutting Android App**
 
-- 🌱 I’m currently learning **Django , React, GenAI**
+- 🌱 I’m currently learning **LLM , AWS , GenAI, Pipeline**
 
-- 💬 Ask me about **Current Tech. Pros.**
+- 💬 Ask me about **A Startup Ecosystem Building & Growth**
 
-- 📫 How to reach me **keshavmahadev22@gmail.com**
+- 📫 How to reach me **Techmunda21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,5 +35,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kpurohit007&show_icons=true&locale=en&layout=compact" alt="kpurohit007" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kpurohit007&show_icons=true&locale=en" alt="kpurohit007" /></p>
 
