@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Purohit</h1>
 <h3 align="center">Founder & CEO of TechMunda</h3>
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
-<img src:"https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif">
+<h3 align="center">As Passionate Full Stack Developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpurohit007&label=Profile%20views&color=0e75b6&style=flat" alt="kpurohit007" /> </p>
 
