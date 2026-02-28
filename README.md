@@ -1,6 +1,6 @@
 <!-- ================= HERO SECTION ================= -->
 <div align="center">
-    <img width="320" src="./assets/main.gif" alt="Coding Animation"/>
+    <img width="320" src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" alt="Coding Animation"/>
     <br/><br/>
 
     <img 
