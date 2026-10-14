@@ -3,7 +3,7 @@
 <h3 align="center">As Passionate Full Stack Developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kpurohit007&label=Profile%20views&color=0e75b6&style=flat" alt="kpurohit007" /> </p>
+<p align="left"> <img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif" alt="kpurohit007" /> </p>
 
 - 🔭 I’m currently working on **Building Ai Agents And Cloud Services**
 
